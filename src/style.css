@@ -1,6 +1,7 @@
 @import 'https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap';
 
 :root {
+  --black-color: #000;
   --accent-color: #00acdc;
 }
 
